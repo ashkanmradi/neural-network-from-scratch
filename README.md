@@ -3,4 +3,4 @@ Implementing a neural network classifier using tensorflow for cifar-10 dataset, 
 
 The project contains three different optimizers including GradientDescent, Adam and RMSProp.
 
-We also Implement a cross-antropy loss layer as the loss function.
+We also Implement a cross-entropy loss layer as the loss function.
